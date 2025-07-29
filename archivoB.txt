@@ -1,1 +1,1 @@
-Soy el archivo B en Master
+Cambio desde Master en archivo B
